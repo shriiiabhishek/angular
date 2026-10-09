@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # angular
 =======
 # MyAngualrApp
+=======
+http://localhost:4200# MyAngualrApp
+>>>>>>> 4f3486a (Initial Angular app setup)
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.2.2.
 
